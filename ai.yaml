@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN,gemini.google.com
-  - DOMAIN-SUFFIX,.ai
-  - DOMAIN,chatgpt.com
-  - DOMAIN,labs.google
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,learning.google.com
-  - DOMAIN-KEYWORD,anthropic
-  - DOMAIN-SUFFIX,230099.xyz
+  - 'gemini.google.com'
+  - '*.ai'
+  - 'chatgpt.com'
+  - 'labs.google'
+  - 'generativelanguage.googleapis.com'
+  - 'learning.google.com'
+  - 'anthropic'
+  - '230099.xyz'
