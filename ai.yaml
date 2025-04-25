@@ -9,3 +9,5 @@ payload:
   - DOMAIN,learning.google.com
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,230099.xyz
+  - DOMAIN,clients4.google.com
+  - DOMAIN,mtalk.google.com
