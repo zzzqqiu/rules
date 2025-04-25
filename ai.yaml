@@ -12,3 +12,4 @@ payload:
   - DOMAIN,clients4.google.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,makersuite.google.com
+  - DOMAIN,apis.google.com
