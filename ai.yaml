@@ -4,6 +4,7 @@ payload:
   - DOMAIN,chatgpt.com
   - DOMAIN,labs.google
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,aistudio.google.com
   - DOMAIN,learning.google.com
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,230099.xyz
