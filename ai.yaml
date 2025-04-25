@@ -5,6 +5,7 @@ payload:
   - DOMAIN,labs.google
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,aistudio.google.com
+  - DOMAIN,ai.google.dev
   - DOMAIN,learning.google.com
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,230099.xyz
