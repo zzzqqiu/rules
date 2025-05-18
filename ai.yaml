@@ -109,4 +109,3 @@ payload:
   - DOMAIN-KEYWORD,openaicom-api
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
-  - DOMAIN,gateway.ai.cloudflare.com
