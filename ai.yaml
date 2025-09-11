@@ -113,3 +113,4 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN,scholar.google.com
   - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,google.com
